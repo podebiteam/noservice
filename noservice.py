@@ -2,7 +2,7 @@
 # Service Denial Script coded by Shadow_ (Vicky_Dasta)
 # Inspired by all those mail sender script,socket connector,web service request POST/GET Method on python.org
 # ROOT404 TEAM | xMebhZer0 | Shadow_ | ./Atom_Sweet
-# Peniti Sekalipun akan menjadi senjata yang berbahaya bila berada di tangan yang salah... (Shadow_)
+# Peniti sekalipun akan menjadi senjata yang berbahaya bila berada di tangan yang salah... (Shadow_)
 # INDIGO PROJECT DEVELOPMENT TEAM
 # @vicky_dasta
 # Version 1.1
@@ -61,7 +61,7 @@ def tanya():
         about()
     elif jawab == 5:
         print '\n Your Shadow_'
-        sys.exit('[+] terminatting program...')
+        sys.exit('[+] terminating program...')
     else:
         print '[-] Enter A Value Of Menu You Want to use...'
         return tanya()
@@ -70,9 +70,9 @@ def about():
     about = '''
         ##############################################################
         Welcome back brother !!!
-        This is my 2nd script that wrote on python
+        This is my 2nd script that written in python
         Its aim is to make any service denied to serve their client
-        include some small web servers,LAN host,Mail Account (Spamming)
+        including some small web servers,LAN host,Mail Account (Spamming)
         (Indigo Project Development Team)
         ###############################################################
         June 12,2014 Shadow_ (Vicky_Dasta)
